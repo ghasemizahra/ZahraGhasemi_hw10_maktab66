@@ -1,0 +1,21 @@
+.color{
+    color:rgb(6, 147, 149)
+}
+.colortxt{
+    color: rgb(95, 94, 94);
+    font-weight: bold;
+}
+/* .shadow{
+    box-shadow:  10px #777;
+
+} */
+
+.text-over-img { 
+	z-index:1; 
+	font-size: 2rem ;
+	margin-top: -60px; 
+    position: relative;
+    font-weight: bold;
+    color: black;
+    margin-left: 40px;
+} 
